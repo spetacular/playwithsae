@@ -1,5 +1,5 @@
 #关于《玩转SAE》#
-Sina App Engine (SAE)，是新浪公司(sina.com.cn)推出的一款云应用引擎，自2009年11月问世后，SAE一直受到开发者的青睐。到2013年11月份止，SAE已经有近30万开发者，共托管了56万多个应用。一些成熟的软件和框架，如wordpress、CodeIngiter、YII等，都被移植到SAE。其中wordpress的安装次数已经超过11万，异常火爆。
+Sina App Engine (SAE)，是新浪公司(sina.com.cn)推出的一款云应用引擎，自2009年11月问世后，SAE一直受到开发者的青睐。到2013年11月份止，SAE已经有近40万开发者，共托管了56万多个应用。一些成熟的软件和框架，如wordpress、CodeIngiter、YII等，都被移植到SAE。其中wordpress的安装次数已经超过11万，异常火爆。
 
 SAE现在支持多种语言：PHP、Java、Python，采用不同技术的开发者都可以使用SAE服务。除了网页应用，SAE也有移动云平台，可以开发移动应用。
 

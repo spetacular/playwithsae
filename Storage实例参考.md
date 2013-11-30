@@ -14,11 +14,11 @@ Storage最明显的用途就是保存用户上传的文件，而用户上传的�
 第四张：图片管理页面
 ![Gallery管理页面](/images/storage_gallery_manage.jpg " Gallery管理页面")
 
-涉及的用法有：
-文件上传upload
-文件写入write
-文件列表getListByPath、getList
-删除文件delete
+涉及的用法有：  
+文件上传upload  
+文件写入write  
+文件列表getListByPath、getList  
+删除文件delete  
 ##文件上传
 Storage文件上传有两种方式：upload和write。前者与传统的文件上传一样，用表单来提交；后者先获得文件的内容，然后write到文件里。
 
